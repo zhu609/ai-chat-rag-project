@@ -1,0 +1,3 @@
+小张，大专学历，熟练掌握 Python、FastAPI、API 调用。
+做过智能博客服项目，能独立完成 AI 应用后端开发。
+常用工具：Trae、GitHub。
